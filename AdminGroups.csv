@@ -1,0 +1,8 @@
+Name,samAccountName,GroupCategory,GroupScope,DisplayName,OU,Description,Membership
+Tier 0 Admins,Tier0Admins,Security,Global,Tier 0 Admis,"OU=Groups,OU=Tier0,OU=Admin,OU=_konya",Members of this group perform Tier 0 Server Maintenance,
+Tier 1 Operators,Tier1Operators,Security,Global,Tier 1 Operators,"OU=Groups,OU=Tier1,OU=Admin,OU=_konya",Members of this group perform Tier 1 Server Maintenance,
+Tier 2 Operators,Tier2Operators,Security,Global,Tier 2 Operators,"OU=Groups,OU=Tier2,OU=Admin,OU=_konya",Members of this group perform Workstation Maintenance,
+Tier 1 Admins,tier1admins,Security,Global,Tier 1 Admins,"OU=Groups,OU=Tier1,OU=Admin,OU=_konya",Members of this group are Tier 1 Administrators,
+Tier 2 Admins,tier2admins,Security,Global,Tier 2 Admins,"OU=Groups,OU=Tier2,OU=Admin,OU=_konya",Members of this group are Tier 2 Administrators,
+Tier 1 Servers,Tier1Servers,Security,Global,Tier 1 Servers,"OU=Groups,OU=Tier1,OU=Admin,OU=_konya",Group that contain all Tier 1 servers,
+Tier 0 Servers,Tier0Servers,Security,Global,Tier 0 Servers,"OU=Groups,OU=Tier0,OU=Admin,OU=_konya",Group that contain all Tier 0 servers,
